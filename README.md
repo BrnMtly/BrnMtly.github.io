@@ -1,4 +1,4 @@
-The codes below are share codes for Baran Mutluay's projects  
+The codes below are share codes of Baran Mutluay's projects  
 https://onlinegdb.com/awvtMc5OK
 https://onlinegdb.com/HH8-IhKiC
 https://onlinegdb.com/XLmvYRG1e
