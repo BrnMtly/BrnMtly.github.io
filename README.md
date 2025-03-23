@@ -1,4 +1,3 @@
-BrnMtly.github.io
 The ones below are share codes for Baran Mutluay's projects  
 https://onlinegdb.com/awvtMc5OK
 https://onlinegdb.com/HH8-IhKiC
